@@ -1,0 +1,4 @@
+*This is the first js projects in Foundation series which is a counter application for Couting the Numbers*
+
+*This is the deployed Link --> https://js-projects-i56o.vercel.app/*
+*Do like and Share the projects and Follow for More...*
